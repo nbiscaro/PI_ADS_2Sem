@@ -2,28 +2,21 @@
 
 # Algo Positivo
 Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia de São José dos Campos.
-Este é um projeto da parceria entre a FATEC de São José dos Campos e a SPC Brasil.
 
 ### Sobre o projeto:
-Com a mudança do modelo de operação do Cadastro Positivo, surgiu a necessidade de realizar uma gestão de informação mais eficaz para garantir a qualidade, o uso adequado e gerar valor através dos dados. E para gerar valor através destes dados, será mapeado de forma geral o perfil dos clientes, de modo que a área de marketing possa compreender melhor quem são seus clientes e criar campanhas mais assertivas para determinado nicho. 
+Este projeto é o resultado de uma parceria acadêmica entre o SPC Brasil e a Fatec de São José dos Campos.  
+A proposta do projeto é criar um programa que leia e analise grandes massas de dados do cadastro positivo (por conta da mudança do mesmo), e exiba na tela um relatório de erros (e arrumar, se possível), além de indicadores de negócios.
 
-### Escopo:
-Será desenvolvido uma aplicação gráfica para desktop que primeiramente requisitará ao usuário inserir suas credenciais para ter acesso ao sistema, e após ter acesso liberado, será apresentada uma nova interface onde poderão ser encontrados os dados gerados pelo sistema. Os dados gerados são: total e média de idade dos clientes por região, estado, sexo, faixa etária, modalidade mais utilizada e a menos utilizada. O programa também terá a opção para exportar os dados gerados, salvando em arquivos csv para facilitar a abertura no Excel para aplicação de filtros. 
+### Funcionalidades:
+O programa deverá achar erros, corrigir se possível, fazer login para as diferentes áreas de negócio do SPC Brasil, aplicar os filtros correspondentes, analisar dados, ter segurança e estar de acordo com a LGPD, exibir gráfico dos indicadores de negócios e relatório de erros e possuir um log de acesso.
 
 ### Desenvolvimento:
-Estamos utilizando a linguagem Python para análise e exibição do conteúdo, com as bibliotecas Pandas, tkinter, SQLite3, Hashlib.  
+Estamos utilizando o Jupyter Notebook e a linguagem Python para análise e exibição do conteúdo, com as bibliotecas Pandas, tkinter, SQLite3, Hashlib.  
 SO: Windows 10.
-
-### Ultimas entregas:
-- [x] Entrega 1: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega1)   
-- [x] Entrega 2: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega2)   
-- [x] Entrega 3: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega3)
-- [x] Entrega 4: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega4) 
 
 ---
 #### Desenvolvedores:  
 [*Wesley Dias (PO)*](https://github.com/WeDias)  
 [*Israel Augusto (MASTER)*](https://github.com/IsraelAugusto0110)   
 [*Denis Lima*](https://github.com/Denis-Lima)  
-[*Natalia Biscaro*](https://github.com/NataliaBiscaro)   
-[*Euclides Rezende*](https://github.com/euclidesjc)
+[*Natalia Biscaro*](https://github.com/NataliaBiscaro)

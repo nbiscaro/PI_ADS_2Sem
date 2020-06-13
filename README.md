@@ -1,7 +1,12 @@
 # PI_ADS_2Sem
 Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia de São José dos Campos.
 
-Precisa ser atualizado ainda
+### Últimas atualizações:
+- [x] Revisão do projeto
+- [x] Novo documento de visão
+- [x] Novo diagrama de caso de uso
+- [x] filtragem dos dados que serão utilizados
+- [x] Criação do programa para envio de emails
 
 ---
 #### Desenvolvedores:  

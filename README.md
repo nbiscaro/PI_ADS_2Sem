@@ -1,6 +1,9 @@
 # PI_ADS_2Sem
 Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia de São José dos Campos.
 
+### Prévia:
+![Previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/Entrega4/Ignorar/Previa.gif)
+
 ### Últimas atualizações:
 - [x] Revisão do projeto
 - [x] Novo documento de visão

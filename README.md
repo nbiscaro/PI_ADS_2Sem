@@ -1,3 +1,5 @@
+###### ⚠ O projeto sofreu grandes alterações a partir da entrega 5 o que torna as informações obsoletas.
+
 # PI_ADS_2Sem
 Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia de São José dos Campos.
 

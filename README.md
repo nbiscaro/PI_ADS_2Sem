@@ -1,4 +1,4 @@
-###### ⚠ O projeto sofreu grandes alterações a partir da entrega 4 o que torna as informações obsoletas.
+###### ⚠ O projeto sofreu grandes alterações a partir da entrega 4 o que torna as informações obsoletas.⚠ 
 
 # Algo Positivo
 Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia de São José dos Campos.
